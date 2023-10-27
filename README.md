@@ -20,9 +20,9 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
-| 3 |  -             |  -             | https://       |
+| 1 | Telco-Data-Analysis              |  Analysis of the customer churn data of a Telco company           | https://github.com/elle-shika/Telco-Data-Analysis.git       |
+| 2 |  My-First-Class             |  A binary classification project to predict the gender of buyers based on other features from the dollar tree sales platform.             | https://github.com/elle-shika/My-First-Class.git       |
+| 3 |  Money-looks             |  Visualization project on currency trends against EUR from the frankfurter API             | https://github.com/elle-shika/Money-looks.git       |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
